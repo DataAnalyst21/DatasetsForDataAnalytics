@@ -1,8 +1,8 @@
-name,breed,color,height_cm,weight_kg0
-Bella,Labrador,Brown,56,251
-Charlie,Poodle,Black,43,232
-Lucy,Chow,Brown,46,223
-Cooper,Schnauzer,Gray,49,174
-Max,Labrador,Black,59,295
-Stella,Chihuahua,Tan,18,26
-Bernie,St. Bernard,White,77,74
+,name,breed,color,height_cm,weight_kg0,date_of_birth
+0,Bella,Labrador,Brown,56,251,2016-07-18
+1,Charlie,Poodle,Black,43,232,2018-01-05
+2,Lucy,Chow,Brown,46,223,2019-09-27
+3,Cooper,Schnauzer,Gray,49,174,2017-05-22
+4,Max,Labrador,Black,59,295,2015-11-12
+5,Stella,Chihuahua,Tan,18,26,2020-12-03
+6,Bernie,St. Bernard,White,77,74,2018-07-08
